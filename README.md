@@ -1,2 +1,1 @@
-# ⌛ Cute Pomodoro Timer
-^-*!
+# ⌛ Pomodoro Timer
